@@ -1,7 +1,8 @@
 # Assigning Groups to Users in Microsoft Azure's Entra ID <p align="center">
 
 
-<img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
+<img width="797" height="285" alt="image" src="https://github.com/user-attachments/assets/dbc05b88-0d1b-4627-b91f-75cc71bf083f" />
+
 </p>
 
 <h1>Assigning Groups to Users in Our Lab Environment (Azure)</h1>
@@ -26,7 +27,9 @@ This tutorial outlines the process of assigning security groups to users in Entr
 
 
 <p>
-<img width="1717" height="695" alt="image" src="https://github.com/userattachments/assets/a3cab2e0-2571-460d-ac6e-d5b884f2d1e9" />
+<img width="1289" height="358" alt="image" src="https://github.com/user-attachments/assets/37381cd0-1842-4226-8f67-c700d3ea2340" />
+
+
 </p>
 
 <p>
@@ -35,7 +38,8 @@ Assigned HR-Staff-SecGroup to user Chris Walker.
 <br />
 
 <p>
-<img width="1729" height="700" alt="image" src="https://github.com/userattachments/assets/e4cfbd3d-7eef-4179-a571-7d96e3163ec0" />
+<img width="1289" height="476" alt="image" src="https://github.com/user-attachments/assets/1bd6b2b4-f479-4012-99f4-09b2c56f7847" />
+
 </p>
 <p>
 Assigned Sales-Team-SecGroup to user Jordan Lee.
